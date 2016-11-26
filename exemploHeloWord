@@ -1,4 +1,4 @@
 <?PHP
 //Mostra na tela "Hello word"
-echo "Hello word!";
+echo "Hello word";
 ?>
